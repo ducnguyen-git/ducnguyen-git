@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=900&size=30&pause=1000&color=F7F7F7&background=FFFFFF00&repeat=false&width=435&lines=%E2%9C%A8NGUYEN+MINH+DUC%E2%9C%A8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=900&size=30&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&lines=%E2%9C%A8NGUYEN+MINH+DUC%E2%9C%A8" alt="Typing SVG" /></a>
 
 | 🔲 **RTL Design Engineer** | 🏢 **Design Verification Engineer** | 🛠️ **AI/ML Framework** | 🖥️ **IP/SoC Engineer** |
 
@@ -50,7 +50,7 @@
 ## 🛠 **Tech Stack**
 
 ### **Programming Languages**
-![Verilog/SystemVerilog/VHDL](https://img.shields.io/badge/Verilog%2FSystemVerilog%2FVHDL?style=for-the-badge)
+![Verilog/SystemVerilog/VHDL](https://img.shields.io/badge/HDL-Verilog%2FSystemVerilog%2FVHDL-brightgreen?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 ![JSON](https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=json&logoColor=fff)
 ![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell-white&logoColor=fff)
@@ -64,12 +64,12 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?style=for-the-badge&logo=latex&logoColor=fff)
 
 ### **Tools**
-![Cadence](https://img.shields.io/badge/Cadence?style=for-the-badge)
-![Quartus](https://img.shields.io/badge/Quartus?style=for-the-badge)
-![OpenLane](https://img.shields.io/badge/OpenLane?style=for-the-badge)
+![Cadence](https://img.shields.io/badge/Cadence-red?style=for-the-badge)
+![Quartus](https://img.shields.io/badge/Quartus-cyan?style=for-the-badge)
+![OpenLane](https://img.shields.io/badge/OpenLane-blue?style=for-the-badge)
 
 ### **Code Editor**
-![Antigravity](https://img.shields.io/badge/Antigravity?style=for-the-badge)
+![Antigravity](https://img.shields.io/badge/Antigravity-indigo?style=for-the-badge)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
