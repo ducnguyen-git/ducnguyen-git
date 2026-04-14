@@ -29,8 +29,8 @@
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn"/>
   </a>
   &emsp;
-  <a href="tel:+84 387801290">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <a href="tel:+84387801290">
+    <img src="https://img.shields.io/badge/Phone-0387801290-green?style=for-the-badge" alt="Phone"/>
   </a>
 </div>
 
