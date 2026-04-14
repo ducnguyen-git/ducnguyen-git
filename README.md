@@ -23,10 +23,10 @@
     <img src="https://img.shields.io/badge/📄_Download_My_CV-PDF-0F4C81?style=for-the-badge&logoColor=white" alt="Download CV"/>
   </a>
   <a href="mailto:ducnguyen.hcmwork@gmail.com">
-    ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/ducnguyenhcmwork/">
-    ![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/>
   </a>
   <a href="tel:+84 387801290">
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
@@ -53,7 +53,7 @@
 ### **Programming Languages**
 ![Verilog/SystemVerilog/VHDL](https://img.shields.io/badge/Verilog%2FSystemVerilog%2FVHDL?style=for-the-badge&logo=verilog&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
+![JSON](https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=json&logoColor=fff)
 ![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell-white&logoColor=fff)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)
 ![Nix](https://img.shields.io/badge/Nix-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
@@ -62,7 +62,7 @@
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)]
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)
+![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?style=for-the-badge&logo=latex&logoColor=fff)
 
 ### **Tools**
 ![Cadence](https://img.shields.io/badge/Cadence?style=for-the-badge&logo=cadence&logoColor=white)
@@ -72,17 +72,17 @@
 ### **Code Editor**
 ![Antigravity](https://img.shields.io/badge/Antigravity?style=for-the-badge&logo=antigravity&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor)
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)
-![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=fff)
+![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 
 ### **AI**
-![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)
-![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)
+![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=fff)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?style=for-the-badge&logo=githubcopilot&logoColor=fff)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=fff)
 
 ### **Virtual Machine**
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
@@ -94,16 +94,16 @@
 
 ### **Framework**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff)
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=fff)
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### **Education**
-![Codecademy](https://img.shields.io/badge/Codecademy-%2321759B.svg?logo=codecademy&logoColor=white)
-![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff)
-![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white)
-![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)
+![Codecademy](https://img.shields.io/badge/Codecademy-%2321759B.svg?style=for-the-badge&logo=codecademy&logoColor=white)
+![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=fff)
+![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=fff)
 
 ## 💼 **Experience**
 
