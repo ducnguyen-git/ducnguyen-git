@@ -17,7 +17,7 @@
 
 <!-- CV Download Badge -->
 <div align="center">
-  <a href="https://github.com/ducnguyen-git/ducnguyen-git/Nguyen_Minh_Duc_CV.pdf">
+  <a href="https://github.com/ducnguyen-git/ducnguyen-git/blob/main/Nguyen_Minh_Duc_CV.pdf">
     <img src="https://img.shields.io/badge/📄_Download_My_CV-PDF-0F4C81?style=for-the-badge&logoColor=white" alt="Download CV"/>
   </a>
   &emsp;
